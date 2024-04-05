@@ -1,5 +1,9 @@
 ## Oii eu sou a Anna Carolina, estudante da área de tecnologia!
 
+🌐 São Paulo, Brasil. 
+
+⚡ Cursando Ánalise de Desenvolvimento de Sistemas na Fatec Carapicuíba.
+
 ## Tecnologias
 
 <div style="display: inline_block"><br>
@@ -9,12 +13,6 @@
   
 </div>
   
-## Algumas infos sobre mim :)
-
-🌐 São Paulo, Brasil. 
-
-⚡ Cursando Ánalise de Desenvolvimento de Sistemas na Fatec Carapicuíba.
-
 ### Redes Sociais
 
 <div> 
