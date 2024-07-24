@@ -22,7 +22,7 @@
 </div>
 
 ## 
-<img src="https://github-readme-stats.vercel.app/api?username=annaaldz&show_icons=true&count_private=true&layout=compact&theme=dark" />
-
-## 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaaldz&layout=compact&theme=dark&hide_progress=false" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=annaaldz&show_icons=true&count_private=true&layout=compact&theme=dark" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaaldz&layout=compact&theme=dark&hide_progress=false" height="200px" />
+</div>
