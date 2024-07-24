@@ -21,4 +21,3 @@
   
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=f&show_icons=true&count_private=true&theme=dark" />
