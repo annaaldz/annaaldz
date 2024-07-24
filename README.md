@@ -20,3 +20,5 @@
   <a href="https://www.linkedin.com/in/anna-carolina-a497311a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=f&show_icons=true&count_private=true&theme=dark" />
