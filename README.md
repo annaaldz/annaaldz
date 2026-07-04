@@ -1,8 +1,8 @@
-## Oii eu sou a Anna Carolina, estudante da área de tecnologia!
+## Oii eu sou a Anna Carolina!
 
 🌐 São Paulo, Brasil. 
 
-⚡ Cursando Ánalise de Desenvolvimento de Sistemas na Fatec Carapicuíba.
+⚡ Formada em Análise e Desenvolvimento de Sistemas, apaixonada por desenvolvimento de pessoas e tecnologia. 
 
 ## Tecnologias
 
